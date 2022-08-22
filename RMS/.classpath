@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
@@ -162,5 +162,6 @@
 	<classpathentry kind="lib" path="C:/Ravina/Software/Jar Files SFDX/commons-exec-1.3.jar"/>
 	<classpathentry kind="lib" path="C:/Ravina/Software/Jar Files SFDX/httpclient-4.5.3.jar"/>
 	<classpathentry kind="lib" path="C:/Ravina/Software/Jar Files SFDX/httpcore-4.4.6.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
